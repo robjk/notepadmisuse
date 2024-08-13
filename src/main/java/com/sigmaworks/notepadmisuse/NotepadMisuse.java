@@ -43,7 +43,6 @@ public class NotepadMisuse {
 
         status.log("spawn a notepad.exe instance", ONGOING);
         Process notepadProcess = startNotepad(badApple172x62.template());
-        status.log("notepad.exe started", SUCCESS);
 
         // hunt for a notepad instance that contains our marker strings
         status.log("find pid for notepad.exe", NEXT);

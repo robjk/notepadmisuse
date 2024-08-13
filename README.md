@@ -115,6 +115,8 @@ moved what was necessary to the com.sigmaworks.notepadmisuse.ffm.bindings folder
 
 ## Running
 
+Latest [release](https://github.com/robjk/notepadmisuse/releases/download/release/notepadmisuse-1.0-SNAPSHOT.jar)
+
 **If you have multiple instances of notepad.exe running, or some other process called notepad.exe, then this program has
 undefined behaviour.** Perhaps just watch the screen capture if it's a concern.
 
