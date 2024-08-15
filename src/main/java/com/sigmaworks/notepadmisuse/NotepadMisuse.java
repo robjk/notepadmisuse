@@ -39,7 +39,7 @@ public class NotepadMisuse {
         System.loadLibrary("user32");
     }
 
-    public static void main() {
+void main() {
 
         status.log("spawn a notepad.exe instance", ONGOING);
         Process notepadProcess = startNotepad(badApple172x62.template());

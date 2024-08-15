@@ -126,7 +126,7 @@ Running the following command in a windows console will allow somewhat prettier 
 
 A Java 22 build or newer is necessary, the application is executed by:
 
-`java --enable-native-access=ALL-UNNAMED -jar notepadmisuse-1.0-SNAPSHOT.jar`
+`java --enable-preview --enable-native-access=ALL-UNNAMED -jar notepadmisuse-1.0-SNAPSHOT.jar`
 
 There is a run script to perform both of these actions under:
 
